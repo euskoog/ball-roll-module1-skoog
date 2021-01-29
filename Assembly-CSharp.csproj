@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8DE52526-AE6F-AC3F-77A6-2834576ABFDA}</ProjectGuid>
+    <ProjectGuid>{2ACA6C3D-C389-3CEA-EBAD-3CD752993B7C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -59,6 +59,7 @@
     <Compile Include="Assets/Scripts/CameraController.cs" />
     <Compile Include="Assets/Scripts/PlayerController.cs" />
     <Compile Include="Assets/Scripts/Rotator.cs" />
+    <Compile Include="Assets/Scripts/Pacer.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

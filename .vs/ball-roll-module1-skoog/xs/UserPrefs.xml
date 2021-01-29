@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2ACA6C3D-C389-3CEA-EBAD-3CD752993B7C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Pacer.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Pacer.cs" Line="15" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ball-roll-module1-skoog" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Pacer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1952113a-2bbb-4cae-8e89-16da69b488ab" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
