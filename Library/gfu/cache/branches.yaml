@@ -13,17 +13,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-01-29T15:53:06.226-06:00
-  initializedAtString: 2021-01-29T15:52:15.454-06:00
+  lastUpdatedAtString: 2021-02-01T00:18:21.153-06:00
+  initializedAtString: 2021-02-01T00:18:21.095-06:00
   localBranches:
+  - name: jimmy-changes
+    tracking: origin/jimmy-changes
   - name: master
     tracking: origin/master
   remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/jimmy-changes
+    tracking: '[None]'
   - name: origin/master
     tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/euskoog/ball-roll-skoog-module1.git
+    url: https://github.com/euskoog/ball-roll-module1-skoog.git
     login: 
     user: 
     host: 
@@ -31,29 +37,47 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - jimmy-changes
     - master
     values:
+    - name: jimmy-changes
+      remote:
+        name: origin
+        url: https://github.com/euskoog/ball-roll-module1-skoog.git
+      trackingBranch: jimmy-changes
     - name: master
       remote:
         name: origin
-        url: https://github.com/euskoog/ball-roll-skoog-module1.git
+        url: https://github.com/euskoog/ball-roll-module1-skoog.git
       trackingBranch: master
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
+      - HEAD
+      - jimmy-changes
       - master
     subKeyValues:
     - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/euskoog/ball-roll-module1-skoog.git
+        trackingBranch: 
+      - name: jimmy-changes
+        remote:
+          name: origin
+          url: https://github.com/euskoog/ball-roll-module1-skoog.git
+        trackingBranch: 
       - name: master
         remote:
           name: origin
-          url: https://github.com/euskoog/ball-roll-skoog-module1.git
+          url: https://github.com/euskoog/ball-roll-module1-skoog.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/euskoog/ball-roll-skoog-module1.git
+      url: https://github.com/euskoog/ball-roll-module1-skoog.git
