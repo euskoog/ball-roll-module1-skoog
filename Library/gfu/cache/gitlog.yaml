@@ -13,9 +13,63 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-02-05T16:41:42.086-06:00
+  lastUpdatedAtString: 2021-02-05T16:53:59.887-06:00
   initializedAtString: 2021-02-05T16:41:42.036-06:00
   log:
+  - commitID: a366c0c2b0e66b066b3cfef06eca3c70c30c930b
+    mergeA: 
+    mergeB: 
+    authorName: Erik Skoog
+    authorEmail: euskoog@gmail.com
+    commitEmail: euskoog@gmail.com
+    commitName: Erik Skoog
+    summary: add changes for module 2
+    description: 
+    timeString: 2021-02-05T16:45:45.000-06:00
+    commitTimeString: 2021-02-05T16:45:45.000-06:00
+    changes:
+    - path: Assets/Scenes/Minigame.unity
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Assets/Scenes/Minigame.unity
+      projectPath: Assets/Scenes/Minigame.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ArtifactDB
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/ArtifactDB
+      projectPath: Library/ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/SourceAssetDB
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/SourceAssetDB
+      projectPath: Library/SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 00a660b5f9415218c07eae14fa109c224985e985
     mergeA: 
     mergeB: 

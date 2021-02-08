@@ -230,8 +230,8 @@
     <Compile Include="Assets/SteamVR/Input/SteamVR_DefaultAction.cs" />
     <Compile Include="Assets/SteamVR/InteractionSystem/Core/Scripts/Throwable.cs" />
     <Compile Include="Assets/SteamVR/Extras/SteamVR_TestTrackedCamera.cs" />
-    <Compile Include="Assets/SteamVR/Extras/SteamVR_TestThrow.cs" />
     <Compile Include="Assets/SteamVR/InteractionSystem/Core/Scripts/BodyCollider.cs" />
+    <Compile Include="Assets/SteamVR/Extras/SteamVR_TestThrow.cs" />
     <Compile Include="Assets/SteamVR/Scripts/SteamVR_Ears.cs" />
     <Compile Include="Assets/SteamVR/Scripts/SteamVR_TrackingReferenceManager.cs" />
     <Compile Include="Assets/SteamVR/Input/SteamVR_Behaviour_Single.cs" />
