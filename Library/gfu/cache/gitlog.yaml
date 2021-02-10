@@ -13,9 +13,741 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-02-10T14:29:34.091-06:00
+  lastUpdatedAtString: 2021-02-10T16:22:20.715-06:00
   initializedAtString: 2021-02-10T14:29:34.035-06:00
   log:
+  - commitID: 62bae2968288185594af2241c7757d25c883e467
+    mergeA: 
+    mergeB: 
+    authorName: Erik Skoog
+    authorEmail: euskoog@gmail.com
+    commitEmail: euskoog@gmail.com
+    commitName: Erik Skoog
+    summary: added larger wobblers
+    description: 
+    timeString: 2021-02-10T16:07:49.000-06:00
+    commitTimeString: 2021-02-10T16:07:49.000-06:00
+    changes:
+    - path: .vs/ball-roll-module1-skoog/xs/UserPrefs.xml
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/.vs/ball-roll-module1-skoog/xs/UserPrefs.xml
+      projectPath: .vs/ball-roll-module1-skoog/xs/UserPrefs.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scenes/Minigame.unity
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Assets/Scenes/Minigame.unity
+      projectPath: Assets/Scenes/Minigame.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scripts/PlayerController.cs
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Assets/Scripts/PlayerController.cs
+      projectPath: Assets/Scripts/PlayerController.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/SteamVR/InteractionSystem/Longbow/Scripts/ExplosionWobble.cs
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Assets/SteamVR/InteractionSystem/Longbow/Scripts/ExplosionWobble.cs
+      projectPath: Assets/SteamVR/InteractionSystem/Longbow/Scripts/ExplosionWobble.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ArtifactDB
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/ArtifactDB
+      projectPath: Library/ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/Artifacts/4c/4ce8d495677d2d647d314c531eb400a7
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/Artifacts/4c/4ce8d495677d2d647d314c531eb400a7
+      projectPath: Library/Artifacts/4c/4ce8d495677d2d647d314c531eb400a7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/86/86b5ff0216d6f0d10676455589a38106
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/Artifacts/86/86b5ff0216d6f0d10676455589a38106
+      projectPath: Library/Artifacts/86/86b5ff0216d6f0d10676455589a38106
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/9e/9ea2bf8fc30a86e04ca73e76ccbd317b
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/Artifacts/9e/9ea2bf8fc30a86e04ca73e76ccbd317b
+      projectPath: Library/Artifacts/9e/9ea2bf8fc30a86e04ca73e76ccbd317b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/BuildPlayerData/Editor/TypeDb-All.json
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/BuildPlayerData/Editor/TypeDb-All.json
+      projectPath: Library/BuildPlayerData/Editor/TypeDb-All.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/BuildPlayerData/response.rsp
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/BuildPlayerData/response.rsp
+      projectPath: Library/BuildPlayerData/response.rsp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/EditorUserBuildSettings.asset
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/EditorUserBuildSettings.asset
+      projectPath: Library/EditorUserBuildSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/InspectorExpandedItems.asset
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/InspectorExpandedItems.asset
+      projectPath: Library/InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/LastBuild.buildreport
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/LastBuild.buildreport
+      projectPath: Library/LastBuild.buildreport
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/PlayerScriptAssemblies/Unity.Subsystem.Registration.dll
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/PlayerScriptAssemblies/Unity.Subsystem.Registration.dll
+      projectPath: Library/PlayerScriptAssemblies/Unity.Subsystem.Registration.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/PlayerScriptAssemblies/Unity.Subsystem.Registration.pdb
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/PlayerScriptAssemblies/Unity.Subsystem.Registration.pdb
+      projectPath: Library/PlayerScriptAssemblies/Unity.Subsystem.Registration.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/PlayerScriptAssemblies/Unity.TextMeshPro.dll
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/PlayerScriptAssemblies/Unity.TextMeshPro.dll
+      projectPath: Library/PlayerScriptAssemblies/Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/PlayerScriptAssemblies/Unity.TextMeshPro.pdb
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/PlayerScriptAssemblies/Unity.TextMeshPro.pdb
+      projectPath: Library/PlayerScriptAssemblies/Unity.TextMeshPro.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/PlayerScriptAssemblies/Unity.Timeline.dll
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/PlayerScriptAssemblies/Unity.Timeline.dll
+      projectPath: Library/PlayerScriptAssemblies/Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/PlayerScriptAssemblies/Unity.Timeline.pdb
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/PlayerScriptAssemblies/Unity.Timeline.pdb
+      projectPath: Library/PlayerScriptAssemblies/Unity.Timeline.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/PlayerScriptAssemblies/Unity.XR.Management.dll
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/PlayerScriptAssemblies/Unity.XR.Management.dll
+      projectPath: Library/PlayerScriptAssemblies/Unity.XR.Management.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/PlayerScriptAssemblies/Unity.XR.Management.pdb
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/PlayerScriptAssemblies/Unity.XR.Management.pdb
+      projectPath: Library/PlayerScriptAssemblies/Unity.XR.Management.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/PlayerScriptAssemblies/UnityEngine.SpatialTracking.dll
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/PlayerScriptAssemblies/UnityEngine.SpatialTracking.dll
+      projectPath: Library/PlayerScriptAssemblies/UnityEngine.SpatialTracking.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/PlayerScriptAssemblies/UnityEngine.SpatialTracking.pdb
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/PlayerScriptAssemblies/UnityEngine.SpatialTracking.pdb
+      projectPath: Library/PlayerScriptAssemblies/UnityEngine.SpatialTracking.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/PlayerScriptAssemblies/UnityEngine.TestRunner.dll
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/PlayerScriptAssemblies/UnityEngine.TestRunner.dll
+      projectPath: Library/PlayerScriptAssemblies/UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/PlayerScriptAssemblies/UnityEngine.TestRunner.pdb
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/PlayerScriptAssemblies/UnityEngine.TestRunner.pdb
+      projectPath: Library/PlayerScriptAssemblies/UnityEngine.TestRunner.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/PlayerScriptAssemblies/UnityEngine.UI.dll
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/PlayerScriptAssemblies/UnityEngine.UI.dll
+      projectPath: Library/PlayerScriptAssemblies/UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/PlayerScriptAssemblies/UnityEngine.UI.pdb
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/PlayerScriptAssemblies/UnityEngine.UI.pdb
+      projectPath: Library/PlayerScriptAssemblies/UnityEngine.UI.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/PlayerScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/PlayerScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll
+      projectPath: Library/PlayerScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/PlayerScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.pdb
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/PlayerScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.pdb
+      projectPath: Library/PlayerScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/SceneVisibilityState.asset
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/SceneVisibilityState.asset
+      projectPath: Library/SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/ScriptAssemblies/Assembly-CSharp.pdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/SteamVR.dll
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/ScriptAssemblies/SteamVR.dll
+      projectPath: Library/ScriptAssemblies/SteamVR.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/SteamVR.pdb
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/ScriptAssemblies/SteamVR.pdb
+      projectPath: Library/ScriptAssemblies/SteamVR.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ShaderCache.db
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/ShaderCache.db
+      projectPath: Library/ShaderCache.db
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ShaderCache/EditorEncounteredVariants
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/ShaderCache/EditorEncounteredVariants
+      projectPath: Library/ShaderCache/EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/SourceAssetDB
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/SourceAssetDB
+      projectPath: Library/SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/StateCache/MainStageHierarchy/45/457b8833c245957e23c17939cd025378.json
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/StateCache/MainStageHierarchy/45/457b8833c245957e23c17939cd025378.json
+      projectPath: Library/StateCache/MainStageHierarchy/45/457b8833c245957e23c17939cd025378.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/StateCache/SceneView/8c/8c18c13df457cd7c8098cd474a791384.json
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/StateCache/SceneView/8c/8c18c13df457cd7c8098cd474a791384.json
+      projectPath: Library/StateCache/SceneView/8c/8c18c13df457cd7c8098cd474a791384.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler5.log
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/shadercompiler-UnityShaderCompiler5.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler5.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler6.log
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Library/shadercompiler-UnityShaderCompiler6.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler6.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Logs/ApiUpdaterCheck.txt
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Logs/ApiUpdaterCheck.txt
+      projectPath: Logs/ApiUpdaterCheck.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Logs/AssetImportWorker0.log
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Logs/AssetImportWorker0.log
+      projectPath: Logs/AssetImportWorker0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings/ProjectSettings.asset
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/ProjectSettings/ProjectSettings.asset
+      projectPath: ProjectSettings/ProjectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/ApiUpdater_CheckMovedFrom0d2646b6204184dd2910c1e5c774f308
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/ApiUpdater_CheckMovedFrom0d2646b6204184dd2910c1e5c774f308
+      projectPath: Temp/ApiUpdater_CheckMovedFrom0d2646b6204184dd2910c1e5c774f308
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/ApiUpdater_CheckMovedFrom50c4e61ea738b4e89a430d03c271eac2
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/ApiUpdater_CheckMovedFrom50c4e61ea738b4e89a430d03c271eac2
+      projectPath: Temp/ApiUpdater_CheckMovedFrom50c4e61ea738b4e89a430d03c271eac2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/CompilationLog.txt
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/CompilationLog.txt
+      projectPath: Temp/CompilationLog.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/StagingArea/Data/UnitySubsystems/XRSDKOpenVR/UnitySubsystemsManifest.json
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/StagingArea/Data/UnitySubsystems/XRSDKOpenVR/UnitySubsystemsManifest.json
+      projectPath: Temp/StagingArea/Data/UnitySubsystems/XRSDKOpenVR/UnitySubsystemsManifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/SteamVR_Windows_EditorHelper.dll.hash
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/SteamVR_Windows_EditorHelper.dll.hash
+      projectPath: Temp/SteamVR_Windows_EditorHelper.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Unity.CollabProxy.Editor.dll.hash
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/Unity.CollabProxy.Editor.dll.hash
+      projectPath: Temp/Unity.CollabProxy.Editor.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Unity.Rider.Editor.dll.hash
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/Unity.Rider.Editor.dll.hash
+      projectPath: Temp/Unity.Rider.Editor.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Unity.Subsystem.Registration.dll.hash
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/Unity.Subsystem.Registration.dll.hash
+      projectPath: Temp/Unity.Subsystem.Registration.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Unity.TextMeshPro.Editor.dll.hash
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/Unity.TextMeshPro.Editor.dll.hash
+      projectPath: Temp/Unity.TextMeshPro.Editor.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Unity.TextMeshPro.dll.hash
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/Unity.TextMeshPro.dll.hash
+      projectPath: Temp/Unity.TextMeshPro.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Unity.Timeline.Editor.dll.hash
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/Unity.Timeline.Editor.dll.hash
+      projectPath: Temp/Unity.Timeline.Editor.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Unity.Timeline.dll.hash
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/Unity.Timeline.dll.hash
+      projectPath: Temp/Unity.Timeline.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Unity.VSCode.Editor.dll.hash
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/Unity.VSCode.Editor.dll.hash
+      projectPath: Temp/Unity.VSCode.Editor.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Unity.VisualStudio.Editor.dll.hash
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/Unity.VisualStudio.Editor.dll.hash
+      projectPath: Temp/Unity.VisualStudio.Editor.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Unity.XR.Management.Editor.dll.hash
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/Unity.XR.Management.Editor.dll.hash
+      projectPath: Temp/Unity.XR.Management.Editor.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Unity.XR.Management.dll.hash
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/Unity.XR.Management.dll.hash
+      projectPath: Temp/Unity.XR.Management.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Unity.XR.OpenVR.Editor.dll.hash
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/Unity.XR.OpenVR.Editor.dll.hash
+      projectPath: Temp/Unity.XR.OpenVR.Editor.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/Unity.XR.OpenVR.dll.hash
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/Unity.XR.OpenVR.dll.hash
+      projectPath: Temp/Unity.XR.OpenVR.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityEditor.SpatialTracking.dll.hash
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityEditor.SpatialTracking.dll.hash
+      projectPath: Temp/UnityEditor.SpatialTracking.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityEditor.TestRunner.dll.hash
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityEditor.TestRunner.dll.hash
+      projectPath: Temp/UnityEditor.TestRunner.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityEditor.UI.dll.hash
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityEditor.UI.dll.hash
+      projectPath: Temp/UnityEditor.UI.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityEditor.XR.LegacyInputHelpers.dll.hash
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityEditor.XR.LegacyInputHelpers.dll.hash
+      projectPath: Temp/UnityEditor.XR.LegacyInputHelpers.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityEngine.SpatialTracking.dll.hash
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityEngine.SpatialTracking.dll.hash
+      projectPath: Temp/UnityEngine.SpatialTracking.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityEngine.TestRunner.dll.hash
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityEngine.TestRunner.dll.hash
+      projectPath: Temp/UnityEngine.TestRunner.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityEngine.UI.dll.hash
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityEngine.UI.dll.hash
+      projectPath: Temp/UnityEngine.UI.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityEngine.XR.LegacyInputHelpers.dll.hash
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityEngine.XR.LegacyInputHelpers.dll.hash
+      projectPath: Temp/UnityEngine.XR.LegacyInputHelpers.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-0831caf68440749e9a18435d9901de2c
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-0831caf68440749e9a18435d9901de2c
+      projectPath: Temp/UnityTempFile-0831caf68440749e9a18435d9901de2c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-117ae87a2cbe24c8baf631fab610c559
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-117ae87a2cbe24c8baf631fab610c559
+      projectPath: Temp/UnityTempFile-117ae87a2cbe24c8baf631fab610c559
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-13473abec35174fc3a5f25c9ad2caa8d
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-13473abec35174fc3a5f25c9ad2caa8d
+      projectPath: Temp/UnityTempFile-13473abec35174fc3a5f25c9ad2caa8d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-166b0bc399e19489eb91d66a02bc50f1
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-166b0bc399e19489eb91d66a02bc50f1
+      projectPath: Temp/UnityTempFile-166b0bc399e19489eb91d66a02bc50f1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-16ea13d65a2c14b9b8cd7ebaf072c33c
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-16ea13d65a2c14b9b8cd7ebaf072c33c
+      projectPath: Temp/UnityTempFile-16ea13d65a2c14b9b8cd7ebaf072c33c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-1bf5c7115cfbf49e9954b6704f842351
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-1bf5c7115cfbf49e9954b6704f842351
+      projectPath: Temp/UnityTempFile-1bf5c7115cfbf49e9954b6704f842351
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-27436cbf7334546c89a3af3ce9272ad4
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-27436cbf7334546c89a3af3ce9272ad4
+      projectPath: Temp/UnityTempFile-27436cbf7334546c89a3af3ce9272ad4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-2a2af21fb565d4ddca35cf6470fc1321
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-2a2af21fb565d4ddca35cf6470fc1321
+      projectPath: Temp/UnityTempFile-2a2af21fb565d4ddca35cf6470fc1321
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-35a850b9752654550994d4b9347296b1
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-35a850b9752654550994d4b9347296b1
+      projectPath: Temp/UnityTempFile-35a850b9752654550994d4b9347296b1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-3bb3f5e76d7184295aed86a5b20cc5a2
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-3bb3f5e76d7184295aed86a5b20cc5a2
+      projectPath: Temp/UnityTempFile-3bb3f5e76d7184295aed86a5b20cc5a2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-4af7177ef4ded45aca103c8882ad5d4e
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-4af7177ef4ded45aca103c8882ad5d4e
+      projectPath: Temp/UnityTempFile-4af7177ef4ded45aca103c8882ad5d4e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-52a2ca353b3d94c358bf1d74663c77e0
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-52a2ca353b3d94c358bf1d74663c77e0
+      projectPath: Temp/UnityTempFile-52a2ca353b3d94c358bf1d74663c77e0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-536058014009248debf4147c55df2489
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-536058014009248debf4147c55df2489
+      projectPath: Temp/UnityTempFile-536058014009248debf4147c55df2489
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-57bec5f66ed8d43ebae437a908532d39
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-57bec5f66ed8d43ebae437a908532d39
+      projectPath: Temp/UnityTempFile-57bec5f66ed8d43ebae437a908532d39
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-6740464c00c7b49cc96f7d9ee201bd5c
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-6740464c00c7b49cc96f7d9ee201bd5c
+      projectPath: Temp/UnityTempFile-6740464c00c7b49cc96f7d9ee201bd5c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-6bfc8bc27c3964700beae7430b3262bb
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-6bfc8bc27c3964700beae7430b3262bb
+      projectPath: Temp/UnityTempFile-6bfc8bc27c3964700beae7430b3262bb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-6f8d78b6a0d2148b78cf829a529405c0
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-6f8d78b6a0d2148b78cf829a529405c0
+      projectPath: Temp/UnityTempFile-6f8d78b6a0d2148b78cf829a529405c0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-70d7e356a6539465a96405f1986b98e2
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-70d7e356a6539465a96405f1986b98e2
+      projectPath: Temp/UnityTempFile-70d7e356a6539465a96405f1986b98e2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-71ea02a3026dc4e529b5ec5250dbdf74
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-71ea02a3026dc4e529b5ec5250dbdf74
+      projectPath: Temp/UnityTempFile-71ea02a3026dc4e529b5ec5250dbdf74
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-7bd89d61586c84f4ba2424b93e9c176b
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-7bd89d61586c84f4ba2424b93e9c176b
+      projectPath: Temp/UnityTempFile-7bd89d61586c84f4ba2424b93e9c176b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-7c7cf9dc8cd1944d3ac7c2225cbd6234
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-7c7cf9dc8cd1944d3ac7c2225cbd6234
+      projectPath: Temp/UnityTempFile-7c7cf9dc8cd1944d3ac7c2225cbd6234
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-8127ed3bbfe8d4729bb80bc70fa575bb
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-8127ed3bbfe8d4729bb80bc70fa575bb
+      projectPath: Temp/UnityTempFile-8127ed3bbfe8d4729bb80bc70fa575bb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-846e353dc0dd343979dbd9716d0b9164
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-846e353dc0dd343979dbd9716d0b9164
+      projectPath: Temp/UnityTempFile-846e353dc0dd343979dbd9716d0b9164
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-86473aa69fece4da6b035ea5b6a98193
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-86473aa69fece4da6b035ea5b6a98193
+      projectPath: Temp/UnityTempFile-86473aa69fece4da6b035ea5b6a98193
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-881c5fb87d0a1411a899a1c54814e69d
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-881c5fb87d0a1411a899a1c54814e69d
+      projectPath: Temp/UnityTempFile-881c5fb87d0a1411a899a1c54814e69d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-8be6b88bdee6542bba09a2e50313206d
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-8be6b88bdee6542bba09a2e50313206d
+      projectPath: Temp/UnityTempFile-8be6b88bdee6542bba09a2e50313206d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-906d772f4adc4436181d030a23ab22d2
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-906d772f4adc4436181d030a23ab22d2
+      projectPath: Temp/UnityTempFile-906d772f4adc4436181d030a23ab22d2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-90861c235cff846d18eee5c040e27192
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-90861c235cff846d18eee5c040e27192
+      projectPath: Temp/UnityTempFile-90861c235cff846d18eee5c040e27192
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-9af472ea474ff46549d800c26b0e0be4
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-9af472ea474ff46549d800c26b0e0be4
+      projectPath: Temp/UnityTempFile-9af472ea474ff46549d800c26b0e0be4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-9c06d6fc01416471fa96a1abbd69f650
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-9c06d6fc01416471fa96a1abbd69f650
+      projectPath: Temp/UnityTempFile-9c06d6fc01416471fa96a1abbd69f650
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-9ce0c769958774665b72b1736e938180
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-9ce0c769958774665b72b1736e938180
+      projectPath: Temp/UnityTempFile-9ce0c769958774665b72b1736e938180
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-a4d13df777cf449c6ad1e3dd4616c516
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-a4d13df777cf449c6ad1e3dd4616c516
+      projectPath: Temp/UnityTempFile-a4d13df777cf449c6ad1e3dd4616c516
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-ab4491bef22724951bd895a36a07f681
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-ab4491bef22724951bd895a36a07f681
+      projectPath: Temp/UnityTempFile-ab4491bef22724951bd895a36a07f681
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-b00798e2ab31e4333b496e6f505b31d7
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-b00798e2ab31e4333b496e6f505b31d7
+      projectPath: Temp/UnityTempFile-b00798e2ab31e4333b496e6f505b31d7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-b2b98378a73784365830d80e6acd9f1c
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-b2b98378a73784365830d80e6acd9f1c
+      projectPath: Temp/UnityTempFile-b2b98378a73784365830d80e6acd9f1c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-d48ce6d5e1f3b445cb7f61148bae7b99
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-d48ce6d5e1f3b445cb7f61148bae7b99
+      projectPath: Temp/UnityTempFile-d48ce6d5e1f3b445cb7f61148bae7b99
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-d824062275b564d5994931054e7df033
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-d824062275b564d5994931054e7df033
+      projectPath: Temp/UnityTempFile-d824062275b564d5994931054e7df033
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-d8e3019f7a4fa4edea6bbc1d2ae53ad0
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-d8e3019f7a4fa4edea6bbc1d2ae53ad0
+      projectPath: Temp/UnityTempFile-d8e3019f7a4fa4edea6bbc1d2ae53ad0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-dc0fca9beb6a4400b82298fee31cadd1
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-dc0fca9beb6a4400b82298fee31cadd1
+      projectPath: Temp/UnityTempFile-dc0fca9beb6a4400b82298fee31cadd1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-eabcb8820abc0409fb5eb7be863d718a
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-eabcb8820abc0409fb5eb7be863d718a
+      projectPath: Temp/UnityTempFile-eabcb8820abc0409fb5eb7be863d718a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-ff9afe5f094a04aaab73136dcc6c172c
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/UnityTempFile-ff9afe5f094a04aaab73136dcc6c172c
+      projectPath: Temp/UnityTempFile-ff9afe5f094a04aaab73136dcc6c172c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/__Backupscenes/0.backup
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/Temp/__Backupscenes/0.backup
+      projectPath: Temp/__Backupscenes/0.backup
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: obj/Debug/SteamVR.csprojAssemblyReference.cache
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/obj/Debug/SteamVR.csprojAssemblyReference.cache
+      projectPath: obj/Debug/SteamVR.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: obj/Debug/SteamVR_Editor.csprojAssemblyReference.cache
+      fullPath: /Users/erikskoog/Documents/Unity Projects/ball-roll-module1-skoog/obj/Debug/SteamVR_Editor.csprojAssemblyReference.cache
+      projectPath: obj/Debug/SteamVR_Editor.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: fcd215f8209c2002aa9383e71ef9f847fa6f6768
     mergeA: 
     mergeB: 
