@@ -7,19 +7,20 @@
 using UnityEngine;
 using System.Collections;
 
+
 namespace Valve.VR.InteractionSystem
 {
 	//-------------------------------------------------------------------------
 	public class ExplosionWobble : MonoBehaviour
 	{
+int count = 0;
 		//-------------------------------------------------
 		public void ExplosionEvent( Vector3 explosionPos )
 		{
-			var rb = GetComponent<Rigidbody>();
-			if ( rb )
-			{
-				rb.AddExplosionForce( 2000, explosionPos, 10.0f );
-			}
+			ParticleSystem exp = GetComponent<ParticleSystem>();
+			exp.Play();
+			Destroy(gameObject, exp.main.duration);
+			count = Random.Range(1, 10);
 		}
 	}
 }
