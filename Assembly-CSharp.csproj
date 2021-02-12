@@ -63,6 +63,7 @@
     <Compile Include="Assets/Scripts/BallController.cs" />
     <Compile Include="Assets/Scripts/Pacer.cs" />
     <Compile Include="Assets/Scripts/deleter.cs" />
+    <Compile Include="Assets/Scripts/score.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

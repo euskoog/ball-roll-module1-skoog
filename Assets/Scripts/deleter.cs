@@ -4,8 +4,12 @@ using UnityEngine;
 
 public class deleter : MonoBehaviour
 {
-    private void OnCollisionEnter(Collision collision)
+    private void OnTriggerEnter(Collider other)
     {
-        Destroy(gameObject);
+        if (other.gameObject.CompareTag("projectile"))
+        {
+            gameObject.SetActive(false);
+            //scoreKeeper.Increase()
+        }
     }
 }
